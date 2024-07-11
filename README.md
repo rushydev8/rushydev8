@@ -1,8 +1,8 @@
-- 👋 Hi, I’m  @rushydev and I'm from germany
+- 👋 Hi, I’m  @Sturegon.
 - 👀 I’m interested in programming,fitness and reading.
-- 🌱 I’m currently learning Python and want to go into backend development later on my journey
+- 🌱 I’m currently learning Luau and want to become a roblox deveoloper.
 - 💞️ I’m looking to collaborate on new projects that can improve my skills.
-- 📫 Reach me under my Discord : rushydev
+- 📫 Reach me under my Discord : sturgeon._. .
 - ⚡ Fun fact: In the word Homeowner is the word meow : "hoMEOWner".
 
 <!---
